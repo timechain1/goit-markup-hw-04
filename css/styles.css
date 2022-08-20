@@ -17,17 +17,17 @@ body {
   color: var(--primary-text-color);
 }
 
-/* убираем точки списков */
+/* прибираємо точки списків */
 .list {
   list-style: none;
 }
 
-/* убираем подчеркивание ссылок */
+/* прибираємо підкреслення посилань */
 .link {
   text-decoration: none;
 }
 
-/* глобальный сброс margin, padding */
+/* глобальне скидання margin, padding */
 h1,
 h2,
 h3,
@@ -90,7 +90,7 @@ ul {
   color: var(--accent-color);
 }
 
-/* ------------ШАПКА-------------- */
+/* ------------Footer-------------- */
 
 .header {
   border-bottom: 1px solid #ececec;
@@ -181,7 +181,7 @@ ul {
   color: var(--accent-color);
 }
 
-/* ------------ГЕРОЙ-------------- */
+/* ------------Hero-------------- */
 
 .hero {
   padding-top: 200px;
@@ -246,7 +246,7 @@ ul {
   color: var(--accent-color);
 }
 
-/* ------------ПРЕИМУЩЕСТВА-------------- */
+/* ------------Advantages-------------- */
 
 .features-section {
   padding-top: 94px;
@@ -282,7 +282,7 @@ ul {
   color: var(--secondary-text-color);
 }
 
-/* ------------СПИСОК ЗАНЯТИЙ-------------- */
+/* --List of activities-- */
 .work-section {
   padding-bottom: 94px;
 }
@@ -298,7 +298,7 @@ ul {
 .section-title {
   margin-bottom: 50px;
 }
-/* ----------------КОМАНДА----------------- */
+/* --Team-- */
 
 .team-section {
   padding-top: 94px;
@@ -375,7 +375,7 @@ ul {
   fill: currentColor;
 }
 
-/* ---------------КЛИЕНТЫ---------------- */
+/* --Clients-- */
 .client-section {
   padding-top: 94px;
   padding-bottom: 94px;
@@ -434,7 +434,7 @@ ul {
   border-color: var(--accent-color);
 }
 
-/* ----------------ПОДВАЛ----------------- */
+/* --Footer-- */
 
 .footer {
   padding-top: 60px;
@@ -514,9 +514,7 @@ ul {
   margin-top: 9px;
 }
 
-/* ---------------------------------------------- */
-/* --------------------ПОРТФОЛИО----------------- */
-/* ---------------------------------------------- */
+/* Portfolio */
 
 .portfolio-section {
   padding-top: 94px;
