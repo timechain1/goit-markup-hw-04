@@ -140,18 +140,6 @@ ul {
   margin-left: 50px;
 }
 
-.header-mail-link {
-  display: inline-flex;
-  padding: 32px 0px 32px;
-  color: var(--accent-color);
-  align-items: center;
-
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 16px;
-  letter-spacing: 0.02em;
-
-}
 
 .header-contact-link {
   display: inline-flex;
@@ -358,7 +346,7 @@ ul {
   display: block;
   border-radius: 50%;
   color: #afb1b8;
-  background-color: #f5f4fa;
+
 }
 
 .team-social-link:hover,
