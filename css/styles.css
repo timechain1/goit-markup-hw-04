@@ -64,6 +64,7 @@ ul {
   line-height: 1.17;
   text-align: center;
   color: var(--primary-text-color);
+  margin-bottom: 50px;
 }
 
 .features-icon-fon {
@@ -181,7 +182,7 @@ ul {
   color: var(--accent-color);
 }
 
-/* ------------Hero-------------- */
+/* --Hero-- */
 
 .hero {
   padding-top: 200px;
@@ -295,15 +296,12 @@ ul {
   margin-right: 30px;
 }
 
-.section-title {
-  margin-bottom: 50px;
-}
+
 /* --Team-- */
 
 .team-section {
   padding-top: 94px;
   padding-bottom: 94px;
-
   background-color: var(--team-background-color);
 }
 
@@ -334,7 +332,6 @@ ul {
 
 .team-profession {
   margin-top: 10px;
-
   font-size: 16px;
   line-height: 1.19;
   text-align: center;
